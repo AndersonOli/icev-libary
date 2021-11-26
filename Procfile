@@ -1,0 +1,1 @@
+web: gunicorn icev_libary.wsgi --log-file -
